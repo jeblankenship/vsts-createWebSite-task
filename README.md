@@ -1,4 +1,4 @@
-# Create Web Application Task
+# Create Web Site Task
 Build task for VS Team Services that creates a web site on remote computer.
 
 
